@@ -11,10 +11,14 @@
             "id": "cca075fc04c8796f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Àlgebra/Espai Vectorials.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Espai Vectorials"
             }
           }
         ]
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Àlgebra/Espai Vectorials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Espai Vectorials"
             }
           },
           {
@@ -123,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Àlgebra/Espai Vectorials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Espai Vectorials"
             }
           },
           {
@@ -149,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Àlgebra/Espai Vectorials.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Espai Vectorials"
             }
           }
         ]
@@ -169,11 +175,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "c66fa68413e6b247",
+  "active": "cca075fc04c8796f",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Àlgebra/Espai Vectorials.md",
+    "Untitled 1",
+    "Untitled",
     "Àlgebra",
     "Fonaments de computadors/Fotos/Screenshot 2024-11-01 at 11.14.20.png",
     "Fonaments de computadors/Fotos/Screenshot 2024-10-30 at 17.27.50.png",
@@ -193,7 +204,6 @@
     "Fonaments de computadors",
     "empresa/Welcome.md",
     "empresa/PAC 2.md",
-    "empresa",
-    "Welcome.md"
+    "empresa"
   ]
 }
