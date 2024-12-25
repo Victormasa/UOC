@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "7b0fe0f9a3536843",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2df116e52c743d85",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -181,8 +165,12 @@
   },
   "active": "cca075fc04c8796f",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Fonaments de computadors/Els circuits lògics combinacionals.md",
+    "Fonaments de computadors/Representació de la informació.md",
+    "Fonaments de computadors/PAC 2.md",
+    "Fonaments de computadors/05.562 · Fonaments de Computadors · 2023-24 PAC3 - Segona prova d'avaluació continuada.md",
     "Àlgebra/Espai Vectorials.md",
+    "Welcome.md",
     "Untitled 1",
     "Untitled",
     "Àlgebra",
@@ -196,11 +184,7 @@
     "Fonaments de computadors/Fotos/Screenshot 2024-10-27 at 08.02.06.png",
     "Fonaments de computadors/Fotos/Pasted image 20241127004341.png",
     "Fonaments de computadors/Fotos/Captura de pantalla 2024-11-27 a les 0.59.11.png",
-    "Fonaments de computadors/Representació de la informació.md",
-    "Fonaments de computadors/Els circuits lògics combinacionals.md",
-    "Fonaments de computadors/PAC 2.md",
     "Fonaments de computadors/Fotos",
-    "Fonaments de computadors/05.562 · Fonaments de Computadors · 2023-24 PAC3 - Segona prova d'avaluació continuada.md",
     "Fonaments de computadors",
     "empresa/Welcome.md",
     "empresa/PAC 2.md",
