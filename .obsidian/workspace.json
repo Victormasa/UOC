@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "7996eea3b9fceeb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e68c0e0e968099ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cca075fc04c8796f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7b0fe0f9a3536843",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2df116e52c743d85",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fe7779ee2349e64",
+    "type": "split",
+    "children": [
+      {
+        "id": "6360f45d77279915",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c66fa68413e6b247",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d534f33e4e64b26d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "478b816b65f804b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c11bd0ec02d3b2ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e6485c6e1a46f62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6dd2dbdc66c1d9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "39c73fc42662c7a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e5ba7b61733cffe6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "93f72a146bc39bd2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c66fa68413e6b247",
+  "lastOpenFiles": [
+    "Àlgebra",
+    "Fonaments de computadors/Fotos/Screenshot 2024-11-01 at 11.14.20.png",
+    "Fonaments de computadors/Fotos/Screenshot 2024-10-30 at 17.27.50.png",
+    "Fonaments de computadors/Fotos/Screenshot 2024-10-28 at 07.20.58.png",
+    "Fonaments de computadors/Fotos/Screenshot 2024-10-27 at 12.25.51.png",
+    "Fonaments de computadors/Fotos/Screenshot 2024-10-27 at 08.16.40.png",
+    "Fonaments de computadors/Fotos/Screenshot 2024-10-27 at 08.15.26.png",
+    "Fonaments de computadors/Fotos/Screenshot 2024-10-27 at 08.13.18.png",
+    "Fonaments de computadors/Fotos/Screenshot 2024-10-27 at 08.02.06.png",
+    "Fonaments de computadors/Fotos/Pasted image 20241127004341.png",
+    "Fonaments de computadors/Fotos/Captura de pantalla 2024-11-27 a les 0.59.11.png",
+    "Fonaments de computadors/Representació de la informació.md",
+    "Fonaments de computadors/Els circuits lògics combinacionals.md",
+    "Fonaments de computadors/PAC 2.md",
+    "Fonaments de computadors/Fotos",
+    "Fonaments de computadors/05.562 · Fonaments de Computadors · 2023-24 PAC3 - Segona prova d'avaluació continuada.md",
+    "Fonaments de computadors",
+    "empresa/Welcome.md",
+    "empresa/PAC 2.md",
+    "empresa",
+    "Welcome.md"
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "969a8308ae5cca3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "08ef5b4319adb85a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8fedba7f40b7f90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05.562 · Fonaments de Computadors · 2023-24 PAC3 - Segona prova d'avaluació continuada.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05.562 · Fonaments de Computadors · 2023-24 PAC3 - Segona prova d'avaluació continuada"
+            }
+          },
+          {
+            "id": "e369732495453316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PAC 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PAC 2"
+            }
+          },
+          {
+            "id": "722b914cc72cd5d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Representació de la informació.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Representació de la informació"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0654d9ce7d3c6f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "73a0c424e31b3c67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79aea5efab769479",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0aa6de79244f8987",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d3ba974af4f412c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c1dee0c533bd17d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1cdbe384ee5909b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81985bf5ce67205c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PAC 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for PAC 2"
+            }
+          },
+          {
+            "id": "70261789fdfc1fbb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PAC 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PAC 2"
+            }
+          },
+          {
+            "id": "ba945fd8f9ca8b13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ee2d9f0f717cb40a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PAC 2.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of PAC 2"
+            }
+          },
+          {
+            "id": "4f758ef6a788567d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "79aea5efab769479",
+  "lastOpenFiles": [
+    "PAC 2.md",
+    "Representació de la informació.md",
+    "Fotos/Captura de pantalla 2024-11-17 a les 18.30.43.png",
+    "Els circuits lògics combinacionals.md",
+    "05.562 · Fonaments de Computadors · 2023-24 PAC3 - Segona prova d'avaluació continuada.md",
+    "Fotos/Captura de pantalla 2024-11-27 a les 0.59.11.png",
+    "Fotos/Captura de pantalla 2024-11-27 a les 0.56.55.png",
+    "Fotos/Captura de pantalla 2024-11-27 a les 0.55.04.png",
+    "Fotos/Captura de pantalla 2024-11-27 a les 0.53.32.png",
+    "Fotos/Pasted image 20241127004341.png",
+    "Fotos/Captura de pantalla 2024-11-26 a les 20.57.58.png",
+    "Fotos/Captura de pantalla 2024-11-26 a les 19.21.27.png",
+    "Fotos/Captura de pantalla 2024-11-06 a les 0.29.04.png",
+    "Fotos/Captura de pantalla 2024-11-06 a les 23.17.30.png",
+    "Fotos",
+    "Welcome.md",
+    "FC/Representació de la informació.md",
+    "FC/Fotos",
+    "FC/Els circuits lògics combinacionals.md",
+    "FC"
+  ]
+}
