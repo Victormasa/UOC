@@ -6,13 +6,10 @@ Donat dos punts $P$ i $Q$ al pla $\mathbb{R}^2$, es defineix el vector $v=\overr
 
 ![[Fig1.png]]
 
+![[Exemple1.png]]
 #### Combinació lineal. Subespai generat
 
 Sigui $(V,+,·)$ un espai vectorial real, es diu que un vector $v \in V$ és una **combinació lineal** del vectors $u_1,u_2,...,u_n \in V$ si existeixen $k_1,k_1,...,k_n$ nombres reals tal que: $$v=k_1·u_1+k_"·u_2+...+k_n·u_n$$
-![[Exemple1.png]]
-
-
-
 Sigui $(V,+,·)$ un espai vectorial real i $\{u_1,u_2,...,u_n\}$ un conjunt de vectors $V$. S'anomena **espai vectorial generat per $\{u_1,u_2,...,u_n\}$** al subespai vectorial de $V$ format per totes les combinacions lineals que es poden formar amb els vectors $\{u_1,u_2,...,u_n\}$ tal que: $$<\;u_1,u_2,...,u_n\;> = \{k_1·u_1+k_"·u_2+...+k_n·u_n |k_i \in \mathbb{R} \; \forall_i = 1,2,...,n\}$$
 El conjunt $\{u_1,u_2,...,u_n\}$ constitueix un sistema generador de l'espai vectorial $<\;u_1,u_2,...,u_n\;>$
 
@@ -66,4 +63,4 @@ Sigui $W$ un subespai d'un espai vectorial $V$. Un conjunt de vectors $W$, $B=\{
 1. $B$ és un sistema generador de $W$
 2. $B$ és un conjunt linealment independent
 
-S'animena **dimensió del subespai $W$ (dim($W$))** al nombre de vectors d'una base.
+S'anomena **dimensió del subespai $W$ (dim($W$))** al nombre de vectors d'una base.

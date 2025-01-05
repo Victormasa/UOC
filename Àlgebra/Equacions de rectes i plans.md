@@ -61,7 +61,7 @@ Donats $u\text{ i } v \in\mathbb{R}^n$, dos vectors a $\mathbb{R}^n$, es diu que
 
 El conjunt de tots els vectors $u\in\mathbb{R}^n$ que són ortogonals al subespai $W$ s'anomena complement ortogonal a de $W$ i es denota $W^{\perp}$ 
 
-Sigui $W$ un subespai vectorial de $\mathbb{R}^n \text{ i } B={u_1,...,u_k}$ una base de $W$. Es diu que $B$ és una base ortogonal de $W$ su els vectors que la componen són ortogonals entre ells. $$u_i\cdot u_j = 0 \ \forall \ i\neq j$$
-D'altre banda, es diu que $B$ és una base ortonormal de $W$ su és una base ortogonal i, a més, tots els vectors que la componen són unitaris. 
+Sigui $W$ un subespai vectorial de $\mathbb{R}^n \text{ i } B={u_1,...,u_k}$ una base de $W$. Es diu que $B$ és una base ortogonal de $W$ si els vectors que la componen són ortogonals entre ells. $$u_i\cdot u_j = 0 \ \forall \ i\neq j$$
+D'altre banda, es diu que $B$ és una base ortonormal de $W$ si és una base ortogonal i, a més, tots els vectors que la componen són unitaris. 
 
 IMPORTANT: Donada una base ortogonal $B$ serà inmediat obtenir una base ortonormal. N'hi ha prou de normalitzar cada un dels vectors de $B$, és a dir $v_i=\frac{u_i}{\|u_i\|}$ on $i$ és la posició del vector 1,2,3..., $u$ els vectors de la base $B$ i $v4$ el vector resultant.
