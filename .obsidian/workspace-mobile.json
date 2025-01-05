@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f6bd41388890d655",
+        "id": "02560bbcd607faf9",
         "type": "tabs",
         "children": [
           {
-            "id": "14267d417b24e041",
+            "id": "a17e939e6740cf3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Àlgebra/Espai Vectorials.md",
+                "file": "Àlgebra/Equacions de rectes i plans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Espai Vectorials"
-            }
-          },
-          {
-            "id": "ba0c6e4d36801272",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-12-25 13.18.54.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-25 13.18.54.excalidraw"
-            }
-          },
-          {
-            "id": "02798ce73d04d179",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-12-25 13.19.12.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-25 13.19.12.excalidraw"
+              "title": "Equacions de rectes i plans"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-12-25 13.19.12.excalidraw.md",
+            "file": "Àlgebra/Equacions de rectes i plans.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,14 +148,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "02798ce73d04d179",
+  "active": "a17e939e6740cf3c",
   "lastOpenFiles": [
+    "Àlgebra/Espai Vectorials.md",
+    "Àlgebra/Matrius.pdf",
+    "Excalidraw/Drawing 2024-12-27 09.57.42.excalidraw.md",
+    "Excalidraw",
+    "2024-12-27.md",
     "Excalidraw/Drawing 2024-12-25 13.24.22.excalidraw.md",
     "Excalidraw/Drawing 2024-12-25 13.19.12.excalidraw.md",
     "Excalidraw/Drawing 2024-12-25 13.18.54.excalidraw.md",
-    "Àlgebra/Espai Vectorials.md",
     "Untitled.md",
-    "Excalidraw/Drawing 2024-12-25 11.49.17.excalidraw.md",
-    "Excalidraw"
+    "Excalidraw/Drawing 2024-12-25 11.49.17.excalidraw.md"
   ]
 }
