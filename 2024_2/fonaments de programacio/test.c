@@ -1,31 +1,18 @@
 #include <stdio.h>
-#define NUMBER 10
+#include <string.h>
 
-void fill(int table[]) { 
-    int i;
+int main() {
+    char a[] = "Ahora";
+    char b[] = "Ahoras";
 
-    *table = 5;
+    int cmp = strcmp(a, b);
 
-    for (i = 0; i< NUMBER; i++){
-        table[i] ++;
-    }
-} 
-
-
-int main() { 
-    /* Variable definition */ 
-    int i;
-    int data[NUMBER];
-
-    for (i = 0; i < NUMBER; i++){
-        data[i] = 3;
-    }
-
-    fill(data);
-
-    for (i =0 ; i < NUMBER; i++){
-        printf("%d ", data[i]);
-    }
+    if (cmp < 0)
+        printf("%s va antes que %s\n", a, b);
+    else if (cmp > 0)
+        printf("%s va después que %s\n", a, b);
+    else
+        printf("Las cadenas son iguales\n");
 
     return 0;
 }
