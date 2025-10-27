@@ -1,0 +1,21 @@
+type
+    tJob = record
+        id: integer;
+        role: string;
+        company: string;
+        nPos: integer;
+        startDate: tDate;
+        endDate: tDate;
+        minSalary: integer;
+        maxSalary: integer;
+    end record
+    
+    tJobs = record
+        elems: vector [MAX_JOBS] of tJob;
+        count: pointer to tJobs;
+    end record
+
+    tList = record
+        first: pointer to tJobs;
+    end record
+end type

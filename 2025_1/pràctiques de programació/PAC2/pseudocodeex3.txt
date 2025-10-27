@@ -1,0 +1,82 @@
+const
+	MAX_JOBS: integer = 125;
+	MAX_PEOPLE: integer = 100;
+end const
+type
+	tJob = record
+		id: integer;
+		role: string;
+		company: string;
+		nPos: integer;
+		startDate: tDate;
+		endDate: tDate;
+		minSalary: integer;
+		maxSalary: integer;
+		cp: string;
+		candidates: integer;
+	end record
+	tJobs = record
+		elems: vector [MAX_JOBS] of tJob;
+		count: integer;
+	end record
+	tPerson = record 
+		document: string;
+		name: string;
+		surname: string;
+		phone: integer;
+		email: string;
+		address: string;
+		cp: string;
+		age: tDate;
+	end record
+	tPeople = record
+		person: vector [MAX_PEOPLE] of tPerson;
+		count: integer;
+	tDate = record
+		day: integer;
+		month: integer;
+		year: integer;
+	end record
+end type
+
+{ Returns the distance in km between two postal codes }
+function getDistance(cp1 : string, cp2 : string) : integer;
+
+{ Returns the age of a person given their birthday }
+function getAge(birthday : tDate) : integer;
+
+function isCandidate(minAge: integer, minDistance: integer, person: tPeople, job: tJob)
+	var
+		isCandidate: boolean;
+	end var
+
+	if (getDistance(job.cp, person.cp) <= minDistance) and (getAge(person.age) >= minAge)
+		isCandidate = true;
+	else
+		isCandidate = false;
+	end if
+	return isCandidate;
+end function
+
+function countCandidates(minAge: integer, minDistance: integer, person: tPeople, job: tJob, candidates: integer)
+	if isCandidate(minAge, minDistance, person, job) = true
+		candidates = candidates + 1;
+	end if
+	return candidates;
+end function
+
+action computeCandidates(inout jobs: tJobs, in minAge: integer, in minDistance: integer, in people: tPeople) 
+	var
+		newCandidates: integer = 0;
+		job: integer;
+		person: integer;
+	end var
+	for job := 0 to MAX_JOBS do
+		for person := 0 to MAX_PEOPLE do
+			newCandidates = countCandidates(minAge, minDistance, people.person[person], jobs.elems[job], newCandidates);
+		end for
+		jobs.elems[job].candidates = newCandidates;
+	end for
+end action
+
+
