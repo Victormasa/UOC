@@ -1,0 +1,108 @@
+type
+  tStatus = {ACCEPTED, PENDING, REJECTED};
+  
+  tDate = record
+    day: integer;
+    month: integer;
+    year: integer;
+  end record
+
+  tPerson = record
+    document: string;
+    name: string;
+    surname: string;
+    phone: string;
+    email: string;
+    birthday: tDate;
+  end record
+
+  tJob = record
+    id: integer;
+    role: string;
+    company: string;
+    nPos: integer;
+    apps: stack(tApplication);
+  end record
+
+  tApplication = record
+    person: pointer to tPerson;
+    status: tStatus;
+  end record
+
+  tJobNode = record
+    job: tJob;
+    next: pointer to tJobNode;
+  end record
+
+  tJobs = record
+    first: pointer to tJobNode;
+  end record
+
+end type
+
+function count_filled_positions(apps: stack(tApplication)): integer
+  var
+    count: integer;
+  end var
+
+  if !isEmptyStack(apps) then
+    pop(apps);
+    count = count_filled_positions(apps) + 1;
+  else
+    count = 0;
+
+  return count;
+
+end function
+
+function is_position_filled (job: tJob): bool
+  var
+    filled_positions: integer;
+  end var
+
+  filled_positions = count_filled_positions(job.apps);
+
+  if (filled_positions >= nPos) then
+    return True;
+  end if
+end function
+
+action jobs_with_filled_positions(in jobs: tJobs, out integer: jobs_filled)
+  var
+    jobs_filled: integer;
+    job: pointer to tJobNode;
+  end var
+
+  job -> jobs.first;
+
+  if (job != NULL) then
+    is_job_filled(job, jobs_filled)
+end action
+
+action is_job_filled(in job: tJob, out integer: job_filled)
+  var
+    job_filled: integer;
+    is_job_filled: bool;
+  end var
+  
+  is_job_filled = is_position_filled(job);
+
+  if (is_job_filled == True) then
+     is_job_filled(job, job_filled + 1);
+  end if
+end action
+
+action total_jobs(in job: tJobs, out job_offer: integer
+
+function percentage_filled_positions (jobs: tJobs): real
+  var
+    filled_positions: integer;
+    percentage_positions_filled: real;
+    job_offers: integer;
+  end var   
+
+  total_jobs(jobs, job_offers)
+  
+  percentage_positions_filled = integerToReal(filled_positions)/integerToReal(job_offers) * 100.00
+end function
+

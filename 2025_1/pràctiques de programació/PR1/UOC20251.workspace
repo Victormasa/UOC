@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOC20251" Database="" Version="10000">
+  <Project Name="UOC20251" Path="UOC20251.project" Active="Yes"/>
+  <Project Name="NetUOC" Path="NetUOC/NetUOC.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="UOC20251" ConfigName="Debug"/>
+      <Project Name="NetUOC" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="UOC20251" ConfigName="Release"/>
+      <Project Name="NetUOC" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
