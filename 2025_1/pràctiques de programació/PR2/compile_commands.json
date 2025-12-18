@@ -1,0 +1,101 @@
+[{
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/csv.h",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC",
+		"command":	"clang++ -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/csv.h\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/csv.h\".o  -I. -I. -I./include  -gdwarf-2"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/error.h",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC",
+		"command":	"clang++ -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/error.h\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/error.h\".o  -I. -I. -I./include  -gdwarf-2"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/person.h",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC",
+		"command":	"clang++ -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/person.h\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/person.h\".o  -I. -I. -I./include  -gdwarf-2"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/application.h",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC",
+		"command":	"clang++ -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/application.h\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/application.h\".o  -I. -I. -I./include  -gdwarf-2"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/date.c",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC",
+		"command":	"clang -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/date.c\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/date.c\".o  -I. -I. -I./include  -gdwarf-2"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/company.h",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC",
+		"command":	"clang++ -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/company.h\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/company.h\".o  -I. -I. -I./include  -gdwarf-2"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/csv.c",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC",
+		"command":	"clang -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/csv.c\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/csv.c\".o  -I. -I. -I./include  -gdwarf-2"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/job.h",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC",
+		"command":	"clang++ -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/job.h\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/job.h\".o  -I. -I. -I./include  -gdwarf-2"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/company.c",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC",
+		"command":	"clang -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/company.c\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/company.c\".o  -I. -I. -I./include  -gdwarf-2"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/api.c",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC",
+		"command":	"clang -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/api.c\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/api.c\".o  -I. -I. -I./include  -gdwarf-2"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/api.h",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC",
+		"command":	"clang++ -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/api.h\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/api.h\".o  -I. -I. -I./include  -gdwarf-2"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/person.c",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC",
+		"command":	"clang -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/person.c\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/person.c\".o  -I. -I. -I./include  -gdwarf-2"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/job.c",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC",
+		"command":	"clang -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/job.c\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/job.c\".o  -I. -I. -I./include  -gdwarf-2"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/date.h",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC",
+		"command":	"clang++ -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/date.h\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/include/date.h\".o  -I. -I. -I./include  -gdwarf-2"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/application.c",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC",
+		"command":	"clang -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/application.c\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/NetUOC/src/application.c\".o  -I. -I. -I./include  -gdwarf-2"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/include/test_pr1.h",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2",
+		"command":	"clang++ -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/include/test_pr1.h\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/include/test_pr1.h\".o  -I. -I. -I./test/include -I./NetUOC/include  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/include/test_suite.h",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2",
+		"command":	"clang++ -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/include/test_suite.h\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/include/test_suite.h\".o  -I. -I. -I./test/include -I./NetUOC/include  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/src/test_pr1.c",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2",
+		"command":	"clang -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/src/test_pr1.c\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/src/test_pr1.c\".o  -I. -I. -I./test/include -I./NetUOC/include  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/include/test_data.h",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2",
+		"command":	"clang++ -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/include/test_data.h\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/include/test_data.h\".o  -I. -I. -I./test/include -I./NetUOC/include  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/src/main.c",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2",
+		"command":	"clang -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/src/main.c\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/src/main.c\".o  -I. -I. -I./test/include -I./NetUOC/include  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/src/test.c",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2",
+		"command":	"clang -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/src/test.c\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/src/test.c\".o  -I. -I. -I./test/include -I./NetUOC/include  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/include/test_pr2.h",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2",
+		"command":	"clang++ -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/include/test_pr2.h\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/include/test_pr2.h\".o  -I. -I. -I./test/include -I./NetUOC/include  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/src/test_pr2.c",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2",
+		"command":	"clang -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/src/test_pr2.c\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/src/test_pr2.c\".o  -I. -I. -I./test/include -I./NetUOC/include  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/include/test.h",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2",
+		"command":	"clang++ -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/include/test.h\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/include/test.h\".o  -I. -I. -I./test/include -I./NetUOC/include  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/src/test_suite.c",
+		"directory":	"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2",
+		"command":	"clang -c \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/src/test_suite.c\" -o \"/Users/vmartinezs/Documents/UOC/2025_1/pràctiques de programació/PR2/test/src/test_suite.c\".o  -I. -I. -I./test/include -I./NetUOC/include  -gdwarf-2  -O0  -Wall"
+	}]

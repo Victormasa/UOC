@@ -1,0 +1,9 @@
+compilacio_1764871145612//project/src/api.c: In function ‘api_reverseJobApplicationQueue’:
+compilacio_1764871145612//project/src/api.c:583:31: warning: passing argument 1 of ‘rec’ from incompatible pointer type [-Wincompatible-pointer-types]
+  583 |     rec(job->applicationsQueue.first, applications);
+      |         ~~~~~~~~~~~~~~~~~~~~~~^~~~~~
+      |                               |
+      |                               tApplicationQueueNode * {aka struct _tApplicationQueueNode *}
+compilacio_1764871145612//project/src/api.c:517:33: note: expected ‘tApplicationStackNode *’ {aka ‘struct _tApplicationStackNode *’} but argument is of type ‘tApplicationQueueNode *’ {aka ‘struct _tApplicationQueueNode *’}
+  517 | void rec(tApplicationStackNode *node, tCSVData *applications) {
+      |          ~~~~~~~~~~~~~~~~~~~~~~~^~~~
